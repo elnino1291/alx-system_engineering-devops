@@ -1,6 +1,2 @@
 #!/bin/bash
-root
 $USER
--u
--n
-
