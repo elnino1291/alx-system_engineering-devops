@@ -1,2 +1,2 @@
 #!/bin/bash
-/tmp/mkdir my_first_directory:0x00-shell_basics
+mkdir my_first_directory/tmp/: 0x00-shell_basics
